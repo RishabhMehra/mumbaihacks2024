@@ -4,9 +4,9 @@ MumbaiHacks 2024 Hackathon
 
 
 # Problem Solved:
-**Predictive Inventory** : By analyzing historical data and external factors, the system accurately forecasts future demand, preventing stockouts and overstocking.
-**Optimized Reordering**: Intelligent agents autonomously trigger reorders based on predefined thresholds and demand predictions, streamlining the replenishment process.
-**Efficient Resource Allocation**: Agents optimize the allocation of resources like warehouse space and transportation, maximizing utilization and reducing costs.
-**Real-time Decision Making**: Agents respond dynamically to changes in demand, supply, and market conditions, enabling agile decision-making.
-**Enhanced Supply Chain Visibility**: The system provides real-time insights into inventory levels, order status, and delivery timelines, improving supply chain visibility and collaboration.
+**Predictive Inventory** : By analyzing historical data and external factors, the system accurately forecasts future demand, preventing stockouts and overstocking.<br>
+**Optimized Reordering**: Intelligent agents autonomously trigger reorders based on predefined thresholds and demand predictions, streamlining the replenishment process.<br>
+**Efficient Resource Allocation**: Agents optimize the allocation of resources like warehouse space and transportation, maximizing utilization and reducing costs.<br>
+**Real-time Decision Making**: Agents respond dynamically to changes in demand, supply, and market conditions, enabling agile decision-making.<br>
+**Enhanced Supply Chain Visibility**: The system provides real-time insights into inventory levels, order status, and delivery timelines, improving supply chain visibility and collaboration.<br>
 By empowering intelligent agents to make informed decisions, this project aims to significantly improve inventory management practices and drive business growth.
